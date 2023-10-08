@@ -1,3 +1,5 @@
 # my_demo
-dem
-I want to write something on this markdown fileo
+demo
+I want to write something on this markdown file And now I know how to edit the git
+HAHAHA
+
